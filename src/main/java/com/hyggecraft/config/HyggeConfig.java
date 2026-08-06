@@ -17,7 +17,9 @@ public class HyggeConfig {
         builder.push("general");
 
         blockedDimensions = builder
-                .comment("Dimensions where players cannot earn advancements.")
+                .comment("Dimensions where players cannot earn advancements.",
+                        "Use the format namespace:path, sepparate the dimensions using commas.",
+                        "Example: minecraft:overworld, mymod:dimension")
                 .defineListAllowEmpty(
                         "advancement_disabled_dimensions",
                         List.of("hyggecraft:creative_superflat"),
