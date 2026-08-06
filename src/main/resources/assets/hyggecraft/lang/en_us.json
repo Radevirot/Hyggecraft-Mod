@@ -1,0 +1,13 @@
+{
+  "itemGroup.hyggecraft": "Example Mod Tab",
+  "block.hyggecraft.example_block": "Example Block",
+  "item.hyggecraft.example_item": "Example Item",
+
+  "hyggecraft.configuration.title": "Hyggecraft Configs",
+  "hyggecraft.configuration.section.hyggecraft.common.toml": "Hyggecraft Configs",
+  "hyggecraft.configuration.section.hyggecraft.common.toml.title": "Hyggecraft Configs",
+  "hyggecraft.configuration.items": "Item List",
+  "hyggecraft.configuration.logDirtBlock": "Log Dirt Block",
+  "hyggecraft.configuration.magicNumberIntroduction": "Magic Number Text",
+  "hyggecraft.configuration.magicNumber": "Magic Number"
+}
